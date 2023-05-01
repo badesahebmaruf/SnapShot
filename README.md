@@ -1,0 +1,2 @@
+# SnapShot
+New snapshot repository
